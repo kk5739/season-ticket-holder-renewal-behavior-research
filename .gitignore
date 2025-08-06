@@ -1,0 +1,18 @@
+# R and RStudio
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+/.Rprofile
+
+# renv cache (optional, usually excluded)
+renv/library/
+renv/python/
+
+# Other
+*.csv
+*.xlsx
+.DS_Store
+
+# VS Code
+.vscode/
